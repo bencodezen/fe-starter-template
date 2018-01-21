@@ -1,0 +1,8 @@
+@mixin fz1 {
+	font-size: 1rem;
+}
+
+h1 {
+	@include fz1;
+	color: yellow;
+}
