@@ -10,12 +10,12 @@ _Note: This will be updated as time goes on and I find gaps in this setup and wi
 
 ## Features
 
-* Hot module reloading!
+* [Hot Module Replacement (HMR)](https://parceljs.org/hmr.html)!
 * [Sass](http://sass-lang.com/) pre-processor already configured!\*
 * [PostCSS](http://postcss.org/) with [Autoprefixer](https://github.com/postcss/autoprefixer) ready to go!
 * [Babel](https://babeljs.io/) transpiling so you can use shiny new ES6+ syntax!
 
-\* _There is a known issue with hot module reloading at the moment, but hopefully that will be resolved soon!_
+\* _There is a known issue with Sass HMR at the moment, so if you want want your styles to reload automatically, switch back to CSS. You can track the issue [here](https://github.com/parcel-bundler/parcel/issues/606)._
 
 ## Getting Started
 
