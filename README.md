@@ -11,9 +11,9 @@ _Note: This will be updated as time goes on and I find gaps in this setup and wi
 ## Features
 
 * Hot module reloading!
-* Sass pre-processor already configured!\*
-* PostCSS with Autoprefixer ready to go!
-* Babel transpiling so you can use shiny new ES6+ syntax!
+* [Sass](http://sass-lang.com/) pre-processor already configured!\*
+* [PostCSS](http://postcss.org/) with [Autoprefixer](https://github.com/postcss/autoprefixer) ready to go!
+* [Babel](https://babeljs.io/) transpiling so you can use shiny new ES6+ syntax!
 
 \* _There is a known issue with hot module reloading at the moment, but hopefully that will be resolved soon!_
 
